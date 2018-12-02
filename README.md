@@ -8,3 +8,6 @@
 
 https://beta.atcoder.jp/tos より  
 に基づいて公開しています.
+# paiza
+paizaはコード載っけれないのでなし.  
+Sランク取得済み
